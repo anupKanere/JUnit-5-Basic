@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Anup\AK\Git Hub\JUnit 5\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3055522360.index
+1970661799.index
+4115156656.index
+804923570.index
+3167203477.index
+3413725848.index
+2948764698.index
+3930974264.index

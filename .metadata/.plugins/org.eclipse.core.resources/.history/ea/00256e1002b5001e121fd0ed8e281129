@@ -1,0 +1,14 @@
+package com.app.ak;
+
+public class MathUtils {
+
+	public int add(int a, int b) {
+		return a + b;
+	}
+	
+	public double areaOfCircle( int r) {
+		return Math.PI * r * r;
+		
+	}
+
+}

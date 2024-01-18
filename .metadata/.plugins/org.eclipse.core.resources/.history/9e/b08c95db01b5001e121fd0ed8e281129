@@ -1,0 +1,17 @@
+package com.app.ak;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest {
+
+	@Test
+	void test() {
+		MathUtils mathUtils = new MathUtils();
+		int expected   = 5;
+		int actual=mathUtils.add(1, 1);
+		assertEquals(expected, actual, "Add method should  add two numbers" );
+		
+	}
+}
